@@ -36,6 +36,7 @@
       <form class="flex-form">
 
         <!--André-->
+<<<<<<< HEAD
         <div class="flex-form-foto">
             <div class="flex-form-item">
               <div class="caixa-texto">
@@ -50,6 +51,20 @@
               </div>
             </div>
         </div>
+=======
+        <div class="caixa">
+            <div class="caixa-interna">
+              <div class="caixa-texto">
+                <h5>Sua foto de perfil</h5>
+              </div>
+              <img src="images/rosto.png" width="110" height="110" alt="avatar"
+              class="img-avatar">
+            </div>
+        </div>
+        <div class="botao">
+           <input type="button" name="botao" value="Alterar Foto" class="btn">
+        </div>
+>>>>>>> 1df6e6897b553f7d9fda2fccf33b081bb0faee8b
         <!--André-->
 
         <div class="flex-form-item">
